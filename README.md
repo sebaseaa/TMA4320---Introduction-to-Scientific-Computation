@@ -1,4 +1,4 @@
-# Utdanning
+# Projects
 
 This repository is for the different projects during my degree:
 
