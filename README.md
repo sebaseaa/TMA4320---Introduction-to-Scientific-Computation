@@ -6,3 +6,4 @@ This repository is for the more relevant projects I've worked on during my degre
 
 -"Simulating random walk" is a project about simulating random walks trying to locate tumors in the brain.
 
+-"Vapor pressure of H2O" is a project about retrieving data and using it to analyze the vapor pressure of water.
