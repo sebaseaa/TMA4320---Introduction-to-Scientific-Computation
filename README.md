@@ -1,6 +1,6 @@
 # Projects
 
-This repository is for the different projects during my degree:
+This repository is for the different projects I've worked on during my degree:
 
 -"Dictionary learning" is a project about applying dictionary learning on the MNIST dataset.
 
