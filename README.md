@@ -1,6 +1,8 @@
 # Projects
 
-This repository is for the more relevant projects I've worked on during my degree:
+This repository is for the more relevant projects I've worked on during my degree.
+
+From TMA4320 - Introduction to Scientific Computing:
 
 -"Dictionary learning" is a project about applying dictionary learning on the MNIST dataset.
 
